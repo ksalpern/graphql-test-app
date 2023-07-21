@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ksalpern/graphql-test-app#readme",
   "dependencies": {
-    "graphql": "^16.7.1"
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.3.0"
   }
 }
