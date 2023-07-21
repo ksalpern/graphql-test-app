@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ksalpern/graphql-test-app/issues"
   },
-  "homepage": "https://github.com/ksalpern/graphql-test-app#readme"
+  "homepage": "https://github.com/ksalpern/graphql-test-app#readme",
+  "dependencies": {
+    "graphql": "^16.7.1"
+  }
 }
